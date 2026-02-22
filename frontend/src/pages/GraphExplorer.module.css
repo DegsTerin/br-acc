@@ -1,0 +1,23 @@
+.explorer {
+  display: flex;
+  gap: var(--space-md);
+  height: calc(100vh - 120px);
+}
+
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+}
+
+.graphArea {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.status {
+  color: var(--text-muted);
+  font-size: var(--font-size-sm);
+}
