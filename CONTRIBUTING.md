@@ -1,5 +1,7 @@
 # Contributing to BRACC Open Graph
 
+Language: **English** | [Português (Brasil)](CONTRIBUTING.pt-BR.md)
+
 Thanks for helping improve BRACC Open Graph.
 
 ## Ground Rules

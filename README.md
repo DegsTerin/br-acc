@@ -2,6 +2,8 @@
 
 [![BRACC Header](docs/brand/bracc-header.jpg)](docs/brand/bracc-header.jpg)
 
+Language: **English** | [Português (Brasil)](README.pt-BR.md)
+
 [![CI](https://github.com/World-Open-Graph/br-acc/actions/workflows/ci.yml/badge.svg)](https://github.com/World-Open-Graph/br-acc/actions/workflows/ci.yml)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
